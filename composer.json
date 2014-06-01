@@ -14,8 +14,14 @@
             "ClassPreloader": "src/"
         }
     },
+	"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/gonzunigad/freshwork-plugin-installer"
+        },
+	],
     "minimum-stability": "dev",
     "require": {
-
+		"gonzunigad/freshwork-installer":"*"
     }
 }
