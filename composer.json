@@ -9,6 +9,11 @@
             "email": "gonzunigad@gmail.com"
         }
     ],
+	"autoload": {
+        "psr-0": {
+            "ClassPreloader": "src/"
+        }
+    },
     "minimum-stability": "dev",
     "require": {
 
