@@ -2,7 +2,6 @@
     "name": "gonzunigad/test-plugin",
     "description": "Test Plugin",
     "license": "MIT",
-	"type":"freshwork-plugin",
     "authors": [
         {
             "name": "Gonzalo Z",
